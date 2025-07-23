@@ -1,0 +1,28 @@
+{
+  "name": "ssd-lab8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryantoh3112/ssd-lab8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ryantoh3112/ssd-lab8/issues"
+  },
+  "homepage": "https://github.com/ryantoh3112/ssd-lab8#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.31.0",
+    "@microsoft/eslint-formatter-sarif": "^3.1.0",
+    "eslint": "^9.31.0",
+    "eslint-plugin-security": "^3.0.1",
+    "globals": "^16.3.0"
+  }
+}
